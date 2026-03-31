@@ -11,7 +11,7 @@ Program sudah menyediakan base code, siswa diminta untuk melengkapi bagian kode 
 2. Tugas Siswa :
 
 a. Membuat sebuah method : void tampil();
-   output : 
+output : 
 Nama  : 
 Saldo : ...
 
